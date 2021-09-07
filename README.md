@@ -12,6 +12,8 @@ These notebooks contains the programming exercises used in the Course I delivere
 
 ##### Books
 
+[Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
+
 #### Core
 [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
 [scikit-learn](https://scikit-learn.org/stable/) - Core ML library.  
