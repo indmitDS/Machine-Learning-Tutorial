@@ -16,7 +16,7 @@ These notebooks contains the programming exercises used in the Course I delivere
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow] (github.com/ageron/handson-ml2)
 [The Hundred Page Machine learning Book] (http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
 [Algorithms to Know for ML] (https://github.com/PacktPublishing/40-Algorithms-Every-Programmer-Should-Know)
-[Transact SQL] (http://justpain.com/eBooks/Databases/SQL/Transact-SQL/The%20Guru's%20Guide%20To%20Transact-SQL.pdf)
+[Transact SQL Book] (http://justpain.com/eBooks/Databases/SQL/Transact-SQL/The%20Guru's%20Guide%20To%20Transact-SQL.pdf)
 [Introduction to ML with Python - Guid] (https://files.isec.pt/DOCUMENTOS/SERVICOS/BIBLIO/INFORMA%C3%87%C3%95ES%20ADICIONAIS/Introction-to-machine_Muller.pdf)
 [Applied Machine Learning] (https://link.springer.com/book/10.1007/978-3-030-18114-7)
 
