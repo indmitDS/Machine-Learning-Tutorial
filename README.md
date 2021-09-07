@@ -1,4 +1,4 @@
-# SampleML
+# ML Exercise
 ML Library Tutorial
 Welcome! In this library we have the Python programming exercises for ML short example based on a specific tiny dataset. .
 
