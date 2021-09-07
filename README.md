@@ -12,9 +12,8 @@ These notebooks contains the programming exercises used in the Course I delivere
 
 ##### Books
 
-[Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLRv2_website.pdf/) - Authentic book on Learning Theory.
-
-[Hands-On Machine Learning with Scikit-Learn and TensorFlow](github.com/ageron/handson-ml2/) - Machine Learning in Python from Scratch.
+[Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLRv2_website.pdf) - Authentic book on Learning Theory.
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow](github.com/ageron/handson-ml2) - Machine Learning in Python from Scratch.
 
 
 #### Core
